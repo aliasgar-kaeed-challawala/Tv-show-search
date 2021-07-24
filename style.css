@@ -1,0 +1,51 @@
+body{
+    background-color: #434a42;
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+h1{
+    color: #aca885;
+    text-align: center;
+}
+input{
+    background: none;
+    border: 2px  #918b76;
+    border-style: groove;
+    width: 50%;
+    border-radius: 5px;
+    /* margin: auto; */
+    text-align: center;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+
+}
+.btn-outline-secondary{
+    background-color:#918b76;
+    color:#434a42
+}
+.btn:hover{
+    background-color:#434a42;
+    color:#aca885;
+}
+.watch{
+    background-color: #434a42;
+    color:white;
+}
+.watch:hover{
+    color:#434a42;
+}
+a{
+    color:white;
+    text-decoration: none;
+}
+a:hover{
+    color:#aca885;
+}
+.card{
+    
+      box-shadow: 0 8px 17px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+      transition: all 2s ease-in-out;
+    
+  }
